@@ -1,2 +1,2 @@
 # types-ui
-A collection of data types commonly found in UI stories
+A collection of data types commonly used in UI stories
